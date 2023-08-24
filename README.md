@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am a new software developer, enrolled in a bootcamp with Tech Elevator.  
 
 <!--
 **dmeulenberg/dmeulenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
