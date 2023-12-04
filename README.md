@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am a new software developer, enrolled in a bootcamp with Tech Elevator.  
 ###
-### My portfolio is available at https://wwww.github.com/dmeulenberg/portfolio.
+### My portfolio is available at [https://wwww.github.com/dmeulenberg/portfolio.](https://github.com/dmeulenberg/portfolio)
 
 <!--
 **dmeulenberg/dmeulenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
